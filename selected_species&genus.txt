@@ -1,0 +1,80 @@
+Verrucomicrobia
+Fusobacteria
+Proteobacteria
+Firmicutes
+Bacteroidetes
+Actinobacteria
+Gammaproteobacteri
+Bacteroidia
+Epsilonproteobacteria
+Clostridia
+Streptococcaceae
+Enterobacteriaceae
+Pasteurellaceae
+Veillonellaceae
+Erysipelotrichaceae
+Kiloniellaceae
+Succinivibrionaceae
+Peptostreptococcaceae
+Ruminococcaceae
+Bifidobacteriaceae
+Rikenellaceae
+Lachnospiraceae 
+Prevotellaceae
+Lactobacillaceae
+Porphyromonadaceae
+Fusobacteriaceae
+Enterococcaceae
+Staphylococcaceae
+Bacteroidaceae
+Clostridiales
+Shigella
+Bacteroides
+Ruminococcus
+Acidaminococcus
+Akkermansia
+Eggerthella
+Flavonifractor
+Escherichia
+Lachnospiraceae
+Robinsoniella
+Dorea
+Porphyromonas
+Anaerococcus
+Bradyrhizobium
+Peptoniphilus
+Allisonella
+Parabacteroides
+Haemophilus
+Eubacterium
+Coprobacter
+Holdemania
+Subdoligranulum
+Coprococcus
+Moryella
+Pseudobutyrivibrio
+Anaerosporobacte
+Alistipes
+Faecalibacterium
+Oscillospira 
+Prevotella
+Oscillibacter
+Bifidobacterium
+Blautia
+Lactobacillus
+Roseburia
+Bacillus
+Megasphaera
+Atopobium
+Dialister
+Clostridium
+Streptococcus
+Neisseria
+SR1 genera incertae sedis
+Alistipes
+Clostridium coccoides
+Propionibacterium acnes
+Bacteroides fragilis
+Escherichia coli
+Eubacterium rectale
+Ruminococcus obeum CAG:39
